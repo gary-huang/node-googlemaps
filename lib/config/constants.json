@@ -14,7 +14,7 @@
     "place-search": {
       "keyword":   "string",
       "language":  "string",
-      "location":  "string",
+      "location":  "object",
       "maxprice":  "number",
       "minprice":  "number",
       "name":      "string",
