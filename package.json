@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/moshen/node-googlemaps"
+    "url": "https://github.com/gary-huang/node-googlemaps"
   },
   "devDependencies": {
     "mocha": "^2.4.5",
